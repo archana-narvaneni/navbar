@@ -1,0 +1,13 @@
+.box{
+    border-width: 2px;
+    border-top: 10px;
+    background-color: crimson;
+    height: 120px;
+    width: 300px;
+    border-style: groove;
+    border-color: black;
+    float: left;
+    position: inherit;
+
+
+}
